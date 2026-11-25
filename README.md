@@ -1,6 +1,6 @@
 # ivan-skills
 
-Private backup of Ivan's personal Codex skills.
+Личные скиллы Ивана для работы с креативом, исследованиями, текстами, таблицами и презентациями. Репозиторий открыт для скачивания и установки.
 
 - `ivan-creative` — creative concepts and development.
 - `ivan-research` — references and research.
@@ -12,7 +12,7 @@ Each skill folder includes its supporting files. Original skill files are preser
 
 Snapshot: 2026-11-25. Updates are manual; this repository does not automatically synchronize with installed skills.
 
-To restore or install, ask Codex to install the desired skill from this repository. Access to this private repository is required.
+To restore or install, ask Codex to install the desired skill from this public repository.
 
 ## Предложения и презентации мероприятий
 
@@ -24,4 +24,4 @@ To restore or install, ask Codex to install the desired skill from this reposito
 
 После установки вызовите `$ivan-event-proposals` и приложите бриф. Для финальной сборки нужны подключённый Google Drive и доступ к нативному шаблону агентства в Google Slides. Шаблон и клиентский PDF в репозиторий не включены.
 
-Репозиторий закрытый. Коллегам нужен доступ к нему в GitHub, а при установке через Codex — доступ к нему через подключение GitHub.
+Репозиторий публичный: приглашение и авторизация GitHub для скачивания не нужны. Можно открыть папку нужного скилла или скачать весь репозиторий через Code → Download ZIP.
